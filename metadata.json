@@ -1,0 +1,7 @@
+{
+  "name": "SchemeFinder Voice AI",
+  "description": "A voice-first chatbot that identifies eligible government and social schemes through natural conversation, tracking user confidence before and after the recommendations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
